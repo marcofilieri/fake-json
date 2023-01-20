@@ -14,8 +14,8 @@
 				"giorni_aperti":"7", 
 				"giorni_chiusi":"15", 
 				"importo_dovuto": 128.20, 
-				"importo_pagato": 0, 
-				"saldo": 0
+				"importo_pagato": 127.26, 
+				"saldo": 0.94
 			},
 			{
 				"cognome":"de VITA NITTI", 
@@ -30,8 +30,8 @@
 				"giorni_aperti":"20",
 				"giorni_chiusi": "2", 
 				"importo_dovuto": 366.28, 
-				"importo_pagato": 0, 
-				"saldo": 0
+				"importo_pagato": 400.00, 
+				"saldo": -33.72
 			},
 			{
 				"cognome":"de VITA NITTI", 
@@ -46,8 +46,8 @@
 				"giorni_aperti":"15",
 				"giorni_chiusi": "7", 
 				"importo_dovuto": 274.71, 
-				"importo_pagato": 0, 
-				"saldo": 0
+				"importo_pagato": 400.00, 
+				"saldo": -125.29
 			},
 			{
 				"cognome":"de VITA NITTI", 
@@ -62,57 +62,9 @@
 				"giorni_aperti":"22",
 				"giorni_chiusi": "0", 
 				"importo_dovuto": 402.91, 
-				"importo_pagato": 0, 
-				"saldo": 0
+				"importo_pagato": 400.00, 
+				"saldo": 2.91
 			},
-			{
-				"cognome":"de VITA NITTI", 
-				"nome":"FLAVIO", 
-				"codice_fiscale":"DVTFLV22B12A662H", 
-				"data_inizio":"", 
-				"data_fine":"", 
-				"isee":"40290.78", 
-				"scuola_plesso":"STANIC", 
-				"anno_mese":"202301", 
-				"reta_mese":"402.91", 
-				"giorni_aperti":"22",
-				"giorni_chiusi": "0", 
-				"importo_dovuto": 402.91, 
-				"importo_pagato": 0, 
-				"saldo": 0
-			},
-			{
-				"cognome":"de VITA NITTI", 
-				"nome":"FLAVIO", 
-				"codice_fiscale":"DVTFLV22B12A662H", 
-				"data_inizio":"", 
-				"data_fine":"", 
-				"isee":"40290.78", 
-				"scuola_plesso":"STANIC", 
-				"anno_mese":"202302", 
-				"reta_mese":"402.91", 
-				"giorni_aperti":"22",
-				"giorni_chiusi": "0", 
-				"importo_dovuto": 402.91, 
-				"importo_pagato": 0, 
-				"saldo": 0
-			},
-			{
-				"cognome":"de VITA NITTI", 
-				"nome":"FLAVIO", 
-				"codice_fiscale":"DVTFLV22B12A662H", 
-				"data_inizio":"", 
-				"data_fine":"", 
-				"isee":"40290.78", 
-				"scuola_plesso":"STANIC", 
-				"anno_mese":"202303", 
-				"reta_mese":"402.91", 
-				"giorni_aperti":"22",
-				"giorni_chiusi": "0", 
-				"importo_dovuto": 402.91, 
-				"importo_pagato": 0, 
-				"saldo": 0
-			}
 		]
 	}
 }
